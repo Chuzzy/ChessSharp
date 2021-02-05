@@ -1,0 +1,17 @@
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessTests\bin\Debug\ChessTests.dll
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessTests\bin\Debug\ChessTests.pdb
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessTests\bin\Debug\ChessSharp.dll
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessTests\bin\Debug\ChessSharp.pdb
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessTests\obj\Debug\ChessTests.csprojResolveAssemblyReference.cache
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessTests\obj\Debug\ChessTests.csproj.CoreCompileInputs.cache
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessTests\obj\Debug\ChessTests.dll
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessTests\obj\Debug\ChessTests.pdb
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessTests\bin\Debug\System.ValueTuple.dll
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessTests\bin\Debug\System.ValueTuple.xml

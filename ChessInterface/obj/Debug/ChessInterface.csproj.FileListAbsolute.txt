@@ -1,0 +1,47 @@
+C:\Users\thech\Documents\Visual Studio 2017\Projects\ChessSharp\ChessInterface\bin\Debug\ChessInterface.exe.config
+C:\Users\thech\Documents\Visual Studio 2017\Projects\ChessSharp\ChessInterface\bin\Debug\ChessInterface.exe
+C:\Users\thech\Documents\Visual Studio 2017\Projects\ChessSharp\ChessInterface\bin\Debug\ChessInterface.pdb
+C:\Users\thech\Documents\Visual Studio 2017\Projects\ChessSharp\ChessInterface\bin\Debug\ChessSharp.dll
+C:\Users\thech\Documents\Visual Studio 2017\Projects\ChessSharp\ChessInterface\bin\Debug\System.ValueTuple.dll
+C:\Users\thech\Documents\Visual Studio 2017\Projects\ChessSharp\ChessInterface\bin\Debug\ChessSharp.pdb
+C:\Users\thech\Documents\Visual Studio 2017\Projects\ChessSharp\ChessInterface\bin\Debug\System.ValueTuple.xml
+C:\Users\thech\Documents\Visual Studio 2017\Projects\ChessSharp\ChessInterface\obj\Debug\ChessInterface.csprojResolveAssemblyReference.cache
+C:\Users\thech\Documents\Visual Studio 2017\Projects\ChessSharp\ChessInterface\obj\Debug\ChessInterface.FormMainMenu.resources
+C:\Users\thech\Documents\Visual Studio 2017\Projects\ChessSharp\ChessInterface\obj\Debug\ChessInterface.FormOptions.resources
+C:\Users\thech\Documents\Visual Studio 2017\Projects\ChessSharp\ChessInterface\obj\Debug\ChessInterface.Properties.Resources.resources
+C:\Users\thech\Documents\Visual Studio 2017\Projects\ChessSharp\ChessInterface\obj\Debug\ChessInterface.csproj.GenerateResource.Cache
+C:\Users\thech\Documents\Visual Studio 2017\Projects\ChessSharp\ChessInterface\obj\Debug\ChessInterface.exe
+C:\Users\thech\Documents\Visual Studio 2017\Projects\ChessSharp\ChessInterface\obj\Debug\ChessInterface.pdb
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessInterface\obj\Debug\ChessInterface.FormStats.resources
+C:\Users\thech\Documents\Visual Studio 2017\Projects\ChessSharp\ChessInterface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thech\Documents\Visual Studio 2017\Projects\ChessSharp\ChessInterface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessInterface\bin\Debug\ChessDotNet.dll
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessInterface\obj\Debug\ChessInterface.FormBoard.resources
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessInterface\obj\Debug\ChessInterface.FormOnlineSetup.resources
+C:\Users\thech\Documents\Visual Studio 2017\Projects\ChessSharp\ChessInterface\obj\Debug\ChessInterface.csproj.CoreCompileInputs.cache
+C:\Users\thech\Documents\Visual Studio 2017\Projects\ChessSharp\ChessInterface\obj\Debug\ChessInterface.FormOfflineSetup.resources
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\bin\Debug\ChessInterface.exe.config
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\bin\Debug\ChessInterface.exe
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\bin\Debug\ChessInterface.pdb
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\bin\Debug\ChessDotNet.dll
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\bin\Debug\ChessSharp.dll
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\bin\Debug\System.ValueTuple.dll
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\bin\Debug\ChessSharp.pdb
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\bin\Debug\System.ValueTuple.xml
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\obj\Debug\ChessInterface.csprojResolveAssemblyReference.cache
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\obj\Debug\ChessInterface.FormBoard.resources
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\obj\Debug\ChessInterface.FormMainMenu.resources
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\obj\Debug\ChessInterface.FormOfflineSetup.resources
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\obj\Debug\ChessInterface.FormOnlineSetup.resources
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\obj\Debug\ChessInterface.FormOptions.resources
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\obj\Debug\ChessInterface.FormStats.resources
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\obj\Debug\ChessInterface.Properties.Resources.resources
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\obj\Debug\ChessInterface.csproj.GenerateResource.Cache
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\obj\Debug\ChessInterface.csproj.CoreCompileInputs.cache
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\obj\Debug\ChessInterface.exe
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\obj\Debug\ChessInterface.pdb
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\obj\Debug\ChessInterface.Form2PlayerBoard.resources
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\obj\Debug\ChessInterface.FormPromotion.resources
+C:\Users\thech\OneDrive\ChessSharp\ChessInterface\obj\Debug\ChessInterface.FormComputerBoard.resources

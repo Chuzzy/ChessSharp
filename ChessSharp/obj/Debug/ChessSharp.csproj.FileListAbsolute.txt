@@ -1,0 +1,8 @@
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessSharp\bin\Debug\ChessSharp.dll
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessSharp\bin\Debug\ChessSharp.pdb
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessSharp\obj\Debug\ChessSharp.csprojResolveAssemblyReference.cache
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessSharp\obj\Debug\ChessSharp.dll
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessSharp\obj\Debug\ChessSharp.pdb
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessSharp\bin\Debug\System.ValueTuple.dll
+C:\Users\thech\documents\visual studio 2017\Projects\ChessSharp\ChessSharp\bin\Debug\System.ValueTuple.xml
+C:\Users\thech\Documents\Visual Studio 2017\Projects\ChessSharp\ChessSharp\obj\Debug\ChessSharp.csproj.CoreCompileInputs.cache
